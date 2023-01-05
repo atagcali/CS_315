@@ -1,0 +1,40 @@
+program {
+
+	// this part will checks switch -
+	// if statement - if else - else if  - bool operations
+
+	int a = 10
+
+	if ( a < 12 && a < 13 ) {
+		//calls connect function
+		connectFunc(https://www.grade100sa.com)
+	}
+	else_if (a > 20 || a > 21 ) {
+		// calls another function
+		readData(sensor9)
+	}
+	else {
+		// calls another function
+		sendFunc()
+	}
+	
+	int x = 11
+	switch ( x )
+
+	case 1:
+	x += 5
+	
+	case 11:
+
+	x *= 2
+
+	case 22:
+
+	x %= 4
+
+	case 33:
+
+	x /= 11
+
+	
+}

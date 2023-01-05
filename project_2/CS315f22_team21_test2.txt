@@ -1,0 +1,67 @@
+program {
+
+	// this program checks function definition , 
+	// assignment and declaration statements
+	// (add - minus) operation statements
+	// function call , while loop , do-while loop 
+	// primitive function call , parameter 
+
+	int addfunc ( int a , int b ) {
+		
+		int x
+		x = a + b
+		return x
+	}
+	addfunc(6,y)
+
+	int i = 5
+	while ( i > 5){
+		addfunc(10 , 15)
+		i -= 1
+	}
+
+
+	int projectMember = 3
+	string fullName
+	string name
+	string surname
+	name = "Ahmet"
+	surname = "baykal"
+	fullName = name + surname
+	
+	do {
+	
+	fullName = name + surname
+
+	name = "alp"
+	surname = "agcali"
+
+	projectMember -= 1
+
+	string newFunc(char a) {
+	name = name + a
+	return name
+	}
+	
+	name = name + 'a'
+
+	fullname = name + surname
+	} while(projectMember > 1)
+
+	readData(SENSOR5)
+	
+	timeStamp()
+
+	sendFunc(4, https://www.google.com)
+
+	switchOn(SWITCH_3)
+
+	switchOff(SWITCH_2)
+
+	rcvFunc( https://www.google.com )
+
+	connectFunc( https://www.google.com )
+
+
+	
+}

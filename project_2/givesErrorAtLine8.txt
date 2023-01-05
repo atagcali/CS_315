@@ -1,0 +1,14 @@
+program{
+// this program gives syntax error on line 8
+	string name = "Tuna"
+
+	char a = 'a'
+
+	int x = 5
+
+	for (int i = 3 ; i < 0 ; i++){
+		while( i > 1){
+		name = name + a;
+		}
+	}
+}

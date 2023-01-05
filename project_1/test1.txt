@@ -1,0 +1,13 @@
+program{
+int x
+
+x = 10
+
+x = x + 5
+
+//comment bu satır 
+
+readData(sensor3)
+
+
+}
